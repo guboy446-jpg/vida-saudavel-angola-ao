@@ -227,8 +227,7 @@
             <p>Rica em fibra e energia de longa duração, a aveia é um alimento simples e poderoso.</p>
             <div class="card-meta"><span>⏱ 6 min</span><span>📅 2026-07-11</span></div>
           </div>
-        </a>
-      </div>
+        </a></div>
     </section>
     <div class="ad-slot"></div>
     <section class="section">
@@ -241,6 +240,12 @@
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Alimentos ricos em proteínas</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Alimentos baratos para ganhar massa muscular</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Receitas saudáveis para ganhar peso</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Plano alimentar para ganhar peso</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Como emagrecer sem passar fome</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Exercícios para emagrecer em casa</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
@@ -251,17 +256,39 @@
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Benefícios do ovo</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Benefícios do frango</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Benefícios do peixe</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Frutas mais nutritivas</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Legumes importantes para a saúde</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Vitaminas essenciais para o corpo</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Alimentos ricos em ferro</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Como melhorar a digestão</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Como fortalecer a imunidade</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Importância da água para o organismo</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Como criar uma alimentação equilibrada</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Pequeno-almoço saudável</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Almoço saudável</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Jantar saudável</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Lanches nutritivos</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Receitas angolanas saudáveis</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Como reduzir açúcar</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
+        </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
+          <span>Como reduzir gordura corporal</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
           <span>Como aumentar energia naturalmente</span><span style="font-family:var(--font-mono);font-size:.7rem;color:var(--cinza-600);white-space:nowrap;margin-left:10px">Em breve</span>
         </li><li style="display:flex;justify-content:space-between;align-items:center;padding:14px 0;border-bottom:1px solid var(--cinza-300)">
