@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vidasaudavelangola.netlify.app/sitemap.xml
+Sitemap: https://vida-saudavel-angola-ao.netlify.app/sitemap.xml
