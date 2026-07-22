@@ -1,6 +1,8 @@
 import os
 
+lib_script = '<script src="//acscdn.com/script/aclib.js"></script>\n'
 zone_script = '<script type="text/javascript">\naclib.runAutoTag({\n    zoneId: "t2hdkdwaof",\n});\n</script>\n'
+full_script = lib_script + zone_script
 
 for root, dirs, files in os.walk('.'):
     for name in files:
@@ -12,7 +14,7 @@ for root, dirs, files in os.walk('.'):
             if 't2hdkdwaof' in content:
                 continue
             if '</body>' in content:
-                new_content = content.replace('</body>', zone_script + '</body>')
+                new_content = content.replace('</body>', full_script + '</body>')
                 f = open(path, 'w', encoding='utf-8')
                 f.write(new_content)
                 f.close()
